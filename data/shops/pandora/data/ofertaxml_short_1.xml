@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<offers>
+  <offer>
+    <id>10000</id>
+    <name>Koralik Morskie skarby</name>
+    <category>Silver</category>
+    <categoryPath>Pandora/Silver</categoryPath>
+    <brutto>150</brutto>
+    <bruttosuggest>150</bruttosuggest>
+    <url>https://github.com/jacektracz/lakida-pand/raw/gh-2019-08-04--1015/data/shops/korale/2019-07-21-2/66354107_321795202037648_4999276966868680704_n.jpg</url>
+    <images>
+      <image>https://raw.githubusercontent.com/jacektracz/lakida-pand/gh-2019-08-04--1015/data/shops/korale/2019-07-21-2/64994179_902139983484545_3393531296398442496_n.jpg</image>
+    </images>
+    <manufacturer>Pandora</manufacturer>
+    <description><![CDATA[Koralik Morskie skarby, srebro i morskie cyrkonie, kamienie błyszczące, stan bdb 150zł]]></description>
+    <attr>
+      <detale material="silver" />
+    </attr>
+    <connected>
+      <id>10000</id>
+    </connected>
+  </offer>
+</offers>
